@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eugen263(amadeus)
-- 👀 I’m interested in python and web programming
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in rust programming language and web development
+- 🌱 I’m currently learning DevOps
 - 📫 How to reach me
 -   insagram - pogre.b
 -   telegram - little_pepperly
